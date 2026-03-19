@@ -1,2 +1,2 @@
 # Mafia
- A free, browser-based Mafia party game that Hanim told me about, for 4 –16 players. No app install needed, just open the link on any phone or tablet and play.
+Open. Play. Deceive. A browser-based Mafia game for 4–16 players. No install required. Bring the world’s most famous game of deception to your browser. This project is a mobile-ready, automated Game Master for Mafia, featuring secret role reveals, hidden detective investigations, and a dynamic debate timer. A special thanks to Hanim for the introduction to this classic. Compatible with any phone, tablet, or laptop.
